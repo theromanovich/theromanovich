@@ -4,6 +4,3 @@
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theromanovich&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/theromanovich/github-readme-stats)

@@ -3,5 +3,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theromanovich&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 💻 Certificates:
-<a href="https://www.udemy.com/certificate/UC-a09d9343-251f-43f7-a92a-e038ba901416/" target="_blank">JS+REACT</a>
+# 🏴‍☠️ Certificates:
+<a href="https://www.udemy.com/certificate/UC-a09d9343-251f-43f7-a92a-e038ba901416/" target="_blank">JavaScript + React</a>

@@ -5,4 +5,4 @@
 
 # 🏴‍☠️ Certificates:
 
-<a href="#" onclick='window.open("https://www.udemy.com/certificate/UC-a09d9343-251f-43f7-a92a-e038ba901416/");return false;'>JavaScript + React</a>
+<a href="https://www.udemy.com/certificate/UC-a09d9343-251f-43f7-a92a-e038ba901416/" onclick='window.open("https://www.udemy.com/certificate/UC-a09d9343-251f-43f7-a92a-e038ba901416/");return false;'>JavaScript + React</a>

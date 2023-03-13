@@ -7,4 +7,5 @@
 
 <a href="https://www.udemy.com/certificate/UC-87a62bd8-e7c1-4711-86f9-39d7cf6b20f9/" target="_blank">React Complete Guide</a> <br>
 <a href="https://www.udemy.com/certificate/UC-a09d9343-251f-43f7-a92a-e038ba901416/" target="_blank">JavaScript + React</a> <br>
+<a href="https://www.udemy.com/certificate/UC-383fef9d-e0ef-4c5b-a909-02ec212aa152/" target="_blank">JS Advanced</a> <br>
 <a href="https://www.udemy.com/certificate/UC-17600ea6-a508-4bb5-ba68-48b58c4c00e5/" target="_blank">HTML + CSS</a>
